@@ -1,0 +1,7 @@
+out/
+build/
+target/
+output/
+.idea
+.idea_modules/
+.DS_Store
